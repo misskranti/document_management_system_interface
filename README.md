@@ -45,9 +45,9 @@ A comprehensive front-end interface for document management built with React/Nex
 
 1. **Clone the repository**
    
-   git clone https://github.com/misskranti/document-management-system.git 
+   git clone https://github.com/misskranti/document_management_system_interface.git
    
-   cd document-management-system
+   cd document_management_system_interface
    
 
 2. **Install dependencies**
